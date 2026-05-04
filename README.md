@@ -4,7 +4,7 @@ A retro DOS-based racing game built in x86 Assembly (NASM), featuring enemy cars
 
 ## 👩‍💻 Developers
 - **Romesha Afzaal** — 24L-3001
-- **Aliza Nadeem** — 24L-3024  
+- **Aliza Nadeem**   — 24L-3024  
 *BSSE-3B, FAST NUCES Lahore*
 
 ## 🎮 Gameplay
